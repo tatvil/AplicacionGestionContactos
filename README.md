@@ -42,4 +42,5 @@ aspecto deberás cambiar:
 puntos)
 
 Se valorará la creatividad. Ejemplo:
+
 ![Ejemplo de creatividad](./imagenes/creatividad.jpg)
